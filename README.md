@@ -1,13 +1,12 @@
 # Curso Intermediário de Angular - Digital Innovation One
 
-Esse curso foi feito para a plataforma [Digital Innovation One](https://digitalinnovation.one/)
+Projeto desenvolvido em angular 8, é um projeto de listagem e castro de filmes, esse projeto teve como inicio o clone desse `git clone git@github.com:RenanRB/curso-angular.git` que foi utilizado como base inicial para desenvolvimento.
 
 O curso consiste em um sistema de filmes, com a possibilidade de cadastros, edições, listagem e visualização dos filmes.
 
 ## Instalação
 
-1. clone o repositório `git clone git@github.com:RenanRB/curso-angular.git`
-2. Entre no projeto e instale as dependencias `npm install`
+1. Entre no projeto e instale as dependencias `npm install`
 
 ## Ambiente Local
 
